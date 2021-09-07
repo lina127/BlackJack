@@ -17,6 +17,6 @@ Player attempts to beat the dealer by getting a count as close to  21 as possibl
 * Choose [hit] or [stay]
 * Display the result, total amount, earned amount and card sum.
 
-### GUI is shown below:
+#### GUI shown below:
 ![image](https://user-images.githubusercontent.com/89232984/131407623-7adfd0d5-2500-4a1c-9081-34e4c5f59a64.png)
 
