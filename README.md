@@ -11,7 +11,7 @@ Player attempts to beat the dealer by getting a count as close to  21 as possibl
 * If the dealer's total is 16 or under, he/she must take a card.
 
 
-#### Function:
+#### Functions:
 * Set name, total amount, betting amount(this cannot exceed total amount)
 * Reset the total amount if player runs out of money.
 * Choose [hit] or [stay]
